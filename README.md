@@ -49,8 +49,8 @@ This project demonstrates that while SARSA excels in predictable environments wi
 5. Compare the results by analyzing the output logs and visualizations.
 
 ## Authors
-- **Eng/Amr Mostafa Ibrahim**
-- TA @ ITCS School , Nile Univeersity , Cairo , Egypt
+- **Eng/Amr Mostafa Ibrahim** (TA @ ITCS School , Nile University , Cairo , Egypt)
+
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
