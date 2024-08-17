@@ -1,6 +1,10 @@
 # Reinforcement-Learning-Comparison-of-SARSA-and-DQN-Algorithms-
 This project evaluates SARSA and Deep Q-Network (DQN) in the Frozen Lake environment, focusing on both deterministic and stochastic settings. It compares how each algorithm navigates the grid to reach a goal while avoiding hazards, highlighting their strengths and limitations in handling uncertainty and complexity.
 
+![SARSA Vs DQN](https://github.com/user-attachments/assets/d1bd49a5-401e-4d20-a656-b9525cbc3654)
+
+
+
 ## Introduction
 This project investigates how the SARSA and DQN algorithms handle the challenge of navigating the Frozen Lake environment, a 4x4 grid where an agent must find its way from a starting point to a goal while avoiding dangerous holes. The Frozen Lake environment is an excellent testbed for understanding the decision-making processes of these algorithms in both predictable (deterministic) and unpredictable (stochastic) conditions.
 
