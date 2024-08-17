@@ -44,6 +44,7 @@ To evaluate the performance of these algorithms, we used the following metrics:
 
 ## Conclusion
 This project demonstrates that while SARSA excels in predictable environments with limited exploration, DQN is more versatile, performing better in noisy and unpredictable conditions. These findings suggest that DQN may be more suitable for real-world applications where environments are often complex and uncertain.
+![Best Epsilon](https://github.com/user-attachments/assets/84fb28f6-51e1-4eec-9c53-fab54ae69c27)
 
 ## How to Run the Code
 1. Clone the repository.
